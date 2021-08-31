@@ -1,4 +1,12 @@
-# api-cep-endereco
-Fiz esse site que consome a api do ViaCEP. A dinâmica é a seguinte: o usuário entra com um endereço e o CEP daquele local é retornado ou o usuário entra com o CEP daquele local e o endereço correspondente é retornado.<br/>
-As tecnologias que utilizei foram PHP, HTML, CSS e Bootstrap.<br/><br/>
-[![tecnologias](https://img.shields.io/badge/MADE_WITH-PHP-blueviolet.svg?style=for-the-badge)](https://github.com/AshileySabah/api-cep-endereco)
+# apiCEPEndereco
+Site responsivo para buscar por CEPs ou endereços completos (logradouro, cidade e estado). Tecnologias: PHP, HTML, CSS e Bootstrap.
+
+Features:
+- Busca por CEP
+- Busca por logradouro, cidade e estado
+
+[![tecnologias](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/AshileySabah/apiCEPEndereco)
+[![tecnologias](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/AshileySabah/apiCEPEndereco)
+[![tecnologias](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/AshileySabah/apiCEPEndereco)
+[![tecnologias](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/AshileySabah/apiCEPEndereco)
+[![tecnologias](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/AshileySabah/apiCEPEndereco)
